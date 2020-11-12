@@ -7,6 +7,8 @@
     background-color: #da8a8a;
 }
 
+
+
 table {
   color: #111;
   border-radius: 5px;
@@ -27,3 +29,6 @@ th, td {
     padding: 6px;
 }
 
+tr:nth-child(even) {
+background-color: #dd5;
+}
